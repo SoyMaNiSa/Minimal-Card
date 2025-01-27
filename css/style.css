@@ -1,0 +1,62 @@
+body {
+    font-family: "Sora", serif;
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+    margin-bottom: 10%;
+    }
+
+.card {
+    width: 368px;
+    background-color: #fff;
+    padding: 16px 16px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #20293A;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #394150;
+    padding-right: 30px;
+    line-height: 20px;
+}
+
+.small {
+    font-size: 12px;
+    font-weight: 400;
+    color: #20293A;
+}
+
+.tag {
+    font-size: 10px;
+    font-weight: 700;
+    color: #7C19EE;
+    margin-right: 84%;
+    background-color: #F2EAFD;
+    padding: 5px 10px;
+    border-radius: 50px;    
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #E5EAF0;
+}
